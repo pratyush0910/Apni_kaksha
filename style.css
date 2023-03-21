@@ -1,0 +1,1086 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    text-transform: none;
+    padding-right: 15rem;
+    padding-left: 15rem;
+    border-bottom: 0.1rem solid rgb(236, 233, 233);
+
+
+
+}
+
+.btn1 {
+    background-color: navy;
+    padding: 0.75rem;
+
+    border-radius: 25%;
+
+}
+
+.nav-items a {
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    margin-left: 4rem
+}
+
+.btn2 {
+    background-color: navy;
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+    padding: 1.15rem;
+    border-radius: 15%;
+
+}
+
+.image1 {
+    height: 50rem;
+    width: 50rem;
+    right: 0%;
+
+
+
+}
+
+.class1 {
+    display: flex;
+
+}
+
+.heading1 {
+    font-size: 4.5rem;
+}
+
+.Rudra {
+    padding-left: 3%;
+    font-size: 1.75rem;
+    border: 0px solid grey;
+    box-shadow: 9px 9px 7px 12px rgb(225, 225, 225);
+    width: 45%;
+    height: auto;
+    border-radius: 1.5rem;
+    border-top: 0.5rem solid white;
+    justify-content: center;
+    padding: 2rem;
+    margin: 3rem;
+    padding-inline: 2rem;
+
+}
+
+h2 {
+    padding-left: 1%;
+
+
+
+
+
+}
+
+#btn3 {
+    border: 1px solid black;
+    height: 1.8rem;
+    width: 16rem;
+    margin-left: 10rem;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    padding-right: 4rem;
+    border-radius: 0.7rem;
+    padding: 1rem;
+
+
+
+
+}
+
+#btn3 a {
+    text-decoration: none;
+    color: navy;
+    font-size: smaller;
+    margin-left: 4.7rem;
+
+
+}
+
+#btn3:hover {
+    background-color: rgb(43, 43, 239);
+
+    text-transform: capitalize;
+    align-content: center;
+    border: 3px solid navy;
+
+}
+
+#btn3 a:hover {
+    color: aliceblue;
+
+}
+
+ul {
+    padding-inline: 5rem;
+    font-size: smaller;
+
+}
+
+
+
+.courses {
+    display: flex;
+    box-sizing: border-box;
+
+}
+
+.PYQ {
+    padding-left: 3%;
+    font-size: 1.75rem;
+    border: 0px solid grey;
+    box-shadow: 9px 9px 7px 12px rgb(225, 225, 225);
+    width: 45%;
+    height: auto;
+    border-radius: 1.5rem;
+    border-top: 0.5rem solid white;
+    justify-content: center;
+    padding: 2rem;
+    margin: 3rem;
+
+    padding-inline: 2rem;
+
+}
+
+#btn4 {
+    border: 1px solid black;
+    width: 16rem;
+    margin-left: 10rem;
+    margin-top: 4rem;
+    padding: 0.8rem;
+    border-radius: 0.7rem;
+
+
+}
+
+#btn4 a {
+    text-decoration: none;
+    color: navy;
+    font-size: smaller;
+    margin-left: 4.7rem;
+
+}
+
+#btn4:hover {
+    background-color: rgb(43, 43, 239);
+
+    text-transform: capitalize;
+    align-content: center;
+    border: 3px solid navy;
+
+}
+
+#btn4 a:hover {
+    color: aliceblue;
+}
+
+.Yoddha {
+    padding-left: 3%;
+    font-size: 1.75rem;
+    border: 0px solid grey;
+    box-shadow: 9px 9px 7px 12px rgb(225, 225, 225);
+    width: 45%;
+    height: auto;
+    border-radius: 1.5rem;
+    border-top: 0.5rem solid white;
+    justify-content: center;
+    padding: 2rem;
+    margin: 25rem;
+    height: auto;
+    margin-top: 2%;
+    padding-inline: 2rem;
+
+}
+
+.aman {
+    display: flex;
+    height: fit-content;
+    width: auto;
+    padding: 11rem;
+    background-color: rgb(215, 198, 231);
+
+
+
+
+
+}
+
+.about {
+    font-size: larger;
+    padding: 5rem;
+    padding-top: 0rem;
+
+
+
+}
+
+.about h2 {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.about p {
+    font-size: larger;
+}
+
+.btn5 {
+    border: 3px solid navy;
+    width: fit-content;
+    padding: 0.78rem;
+    border-radius: 0.5rem;
+
+}
+
+.btn5 a {
+    text-decoration: none;
+    color: black;
+    font-weight: 200;
+    text-transform: capitalize;
+
+}
+
+.btn5 a:hover {
+
+    color: aliceblue;
+
+
+
+}
+
+.btn5:hover {
+    background-color: rgb(53, 53, 170);
+    font-size: large;
+    text-decoration: underline;
+
+
+
+
+}
+
+.quote {
+    border: 0.2rem solid white;
+    background-color: white;
+    font-size: 45px;
+    border-radius: 100%;
+    width: 55%;
+    margin-left: 20%;
+
+}
+
+.blue {
+    background-color: aqua;
+    height: 150rem;
+    width: 100%;
+}
+
+#id1 {
+    margin-left: 20%;
+    padding-bottom: 20%;
+
+}
+
+.aman-d {
+    width: fit-content;
+    margin-bottom: 25%;
+    box-shadow: 7px 7px 12px rgb(53, 52, 52);
+    padding: 2rem;
+    background-color: aliceblue;
+    height: auto;
+    margin-left: 6.2rem;
+}
+
+.aman-d img {
+    display: block;
+}
+
+.aman-d h3 {
+    font-size: 35px;
+}
+
+.aman-d a {
+    margin-left: 95%;
+    border: 2px solid navy;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+    border-radius: 17%;
+}
+
+.heading {
+    margin-left: 40%;
+    font-size: 35px;
+    padding-inline: 2rem;
+    padding: 2rem;
+}
+
+.apni-kaksha {
+    width: fit-content;
+    margin-bottom: 25%;
+    box-shadow: 7px 7px 12px rgb(53, 52, 52);
+    padding: 2rem;
+
+    background-color: aliceblue;
+    height: auto;
+    margin-left: 6.2rem;
+}
+
+.apni-kaksha img {
+    display: block;
+
+}
+
+.apni-kaksha h3 {
+    font-size: 35px;
+}
+
+.apni-kaksha a {
+    margin-left: 95%;
+    border: 2px solid navy;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+    border-radius: 17%;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    bottom: 10%;
+}
+
+.Apna-college {
+    width: fit-content;
+    margin-bottom: 25%;
+    box-shadow: 7px 7px 12px rgb(53, 52, 52);
+    padding: 2rem;
+
+    background-color: aliceblue;
+    height: auto;
+    margin-left: 6.2rem;
+}
+
+.Apna-college img {
+    display: block;
+
+}
+
+.Apna-college h3 {
+    font-size: 35px;
+}
+
+.Apna-college a {
+    margin-left: 95%;
+    border: 2px solid navy;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+    border-radius: 17%;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-content: center;
+    margin-top: -20rem;
+    box-sizing: border-box;
+}
+
+.hustlers {
+    width: fit-content;
+    margin-bottom: 25%;
+    box-shadow: 7px 7px 12px rgb(53, 52, 52);
+    padding: 2rem;
+
+    background-color: aliceblue;
+    height: auto;
+    margin-left: 6.2rem;
+}
+
+.hustlers img {
+    display: block;
+
+}
+
+.hustlers h3 {
+    font-size: 35px;
+    text-transform: capitalize;
+}
+
+.hustlers a {
+    margin-left: 95%;
+    border: 2px solid navy;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+    border-radius: 17%;
+}
+
+.Apna-Zayka {
+    width: fit-content;
+    margin-bottom: 25%;
+    box-shadow: 7px 7px 12px rgb(53, 52, 52);
+    padding: 2rem;
+
+    background-color: aliceblue;
+    height: auto;
+    margin-left: 6.2rem;
+}
+
+.Apna-Zayka img {
+    display: block;
+
+}
+
+.Apna-Zayka h3 {
+    font-size: 35px;
+    text-transform: capitalize;
+}
+
+.Apna-Zayka a {
+    margin-left: 95%;
+    border: 2px solid navy;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+    border-radius: 17%;
+}
+
+.foundations {
+    width: fit-content;
+    margin-bottom: 25%;
+    box-shadow: 7px 7px 12px rgb(53, 52, 52);
+    padding: 2rem;
+
+    background-color: aliceblue;
+    height: auto;
+    margin-left: 6.2rem;
+}
+
+.foundations img {
+    display: block;
+
+}
+
+.foundations h3 {
+    font-size: 35px;
+    text-transform: capitalize;
+}
+
+.foundations a {
+    margin-left: 95%;
+    border: 2px solid navy;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: black;
+    border-radius: 17%;
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-content: center;
+    margin-top: -20rem;
+    box-sizing: border-box;
+}
+
+.container3 a:hover {
+    font-size: larger;
+
+}
+
+.container2 a:hover {
+    font-size: larger;
+}
+
+.container1 a:hover {
+    font-size: larger;
+}
+
+.container4 {
+    background-color: pink;
+    width: 100%;
+    justify-content: center;
+    margin-top: 7rem;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+
+    border-radius: 2%;
+
+
+}
+
+.container4 h3 {
+    font-size: 55px;
+    padding-bottom: 4rem;
+
+}
+
+.container99 {
+    display: flex;
+}
+
+.container4 p {
+    font-size: 35px;
+
+}
+
+.para {
+    width: 40%;
+
+
+}
+
+.suscriber-count {
+    display: flex;
+    font-size: 30px;
+    text-transform: uppercase;
+
+
+
+
+
+}
+
+
+
+
+.class {
+    margin-inline: 0.3rem;
+    padding-inline: 1.5rem;
+    background-color: grey;
+    border-radius: 11%;
+
+}
+
+.suscriber-count1 {
+    display: flex;
+    font-size: 30px;
+
+    text-transform: uppercase;
+    margin-left: auto;
+
+
+
+
+}
+
+.class {
+    margin-inline: 0.3rem;
+    width: fit-content;
+    height: fit-content;
+
+    background-color: grey;
+    border-radius: 11%;
+}
+
+.container99 {
+    display: flex;
+    padding-top: 10rem;
+    padding-bottom: 2rem;
+}
+
+.class99 {
+    background-color: black;
+    display: flex;
+    font-size: 25px;
+    justify-content: space-between;
+    text-transform: none;
+    margin-top: 2rem;
+
+    color: aliceblue;
+
+
+}
+
+.class99 a {
+    padding-bottom: 1rem;
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 100;
+    padding-right: 2rem;
+
+
+
+
+}
+
+@media screen and (max-width:1281px) {
+    .class {
+        width: auto;
+        margin-inline: 0.3rem;
+        padding-inline: 0.75rem;
+
+
+
+    }
+
+
+}
+
+@media screen and (max-width:1281px) {
+    .aman-d {
+        margin-left: 0rem;
+
+
+
+    }
+}
+
+@media screen and (max-width:1281px) {
+    .Apna-college {
+        margin-left: 0rem;
+    }
+}
+
+@media screen and (max-width:1281px) {
+    .Apna-Zayka {
+
+        margin-left: 0rem;
+    }
+}
+
+@media screen and (max-width:769px) and (min-width:416px) {
+    .navbar {
+        padding-right: 1rem;
+        padding-left: 0rem;
+    }
+}
+
+@media screen and (max-width:415px) {
+    .navbar {
+        width: 220%;
+        font-size: x-small;
+
+        padding-right: 0rem;
+        padding-left: 0rem;
+
+
+
+    }
+}
+
+@media screen and (max-width:415px) {
+    .nav-items a {
+
+        margin-left: 3rem;
+
+    }
+}
+
+@media screen and (max-width:769px) {
+    .class1 {
+        display: block;
+
+
+
+
+    }
+
+}
+
+@media screen and (max-width:769px) {
+    .courses {
+        display: block;
+    }
+}
+
+@media screen and (max-width:769px) and (min-width:416px) {
+    .Rudra {
+        padding-left: 3%;
+        width: 75%;
+        justify-content: center;
+        margin: 3rem;
+
+    }
+}
+
+@media screen and (max-width:769px)and (min-width:416px) {
+    .PYQ {
+        padding-left: 3%;
+        width: 75%;
+        justify-content: center;
+        margin: 3rem;
+
+    }
+}
+
+@media screen and (max-width:769px)and (min-width:416px) {
+    .Yoddha {
+        padding-left: 3%;
+        width: 75%;
+        justify-content: center;
+        margin: 3rem;
+
+    }
+}
+
+@media screen and (max-width:769px)and (min-width:416px) {
+    .aman {
+        padding: 0rem;
+        display: block;
+    }
+}
+
+@media screen and (max-width:1280px) {
+    .container1 {
+        margin-bottom: 8rem;
+
+
+
+    }
+}
+
+@media screen and (max-width:1280px) {
+    .container2 {
+        margin-bottom: 8rem;
+
+    }
+}
+
+@media screen and (max-width:1280px) {
+    .container3 {
+        margin-bottom: 8rem;
+
+    }
+}
+
+@media screen and (max-width:769px) and (min-width:416px) {
+    .container1 {
+        display: block;
+
+        bottom: 25%;
+
+
+    }
+}
+
+@media screen and (max-width:769px)and (min-width:416px) {
+    .apni-kaksha {
+        width: fit-content;
+        margin-bottom: 60%;
+
+        margin-left: 0rem;
+    }
+}
+
+@media screen and (max-width:769px)and (min-width:416px) {
+    .container2 {
+        display: block;
+
+        bottom: 25%;
+    }
+}
+
+@media screen and (max-width:769px)and (min-width:416px) {
+    .blue {
+        background-color: aqua;
+        height: auto;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:769px)and (min-width:416px) {
+    .hustlers {
+        width: fit-content;
+        margin-bottom: 60%;
+
+        margin-left: 0rem;
+    }
+}
+
+@media screen and (max-width:415px) {
+    .hustlers {
+        width: fit-content;
+        margin-bottom: 50%;
+
+        margin-left: 0rem;
+    }
+}
+
+@media screen and (max-width:769px)and (min-width:416px) {
+    .container3 {
+        display: flex;
+        flex-direction:column;
+
+        bottom: 0%;
+
+
+    }}
+@media screen and (max-width:415px) {
+    .container3 {
+        display: block;
+        margin-left: 15%;
+        bottom: 55%;
+
+
+    }
+}
+
+@media screen and (max-width:769px)and (min-width:416px) {
+    .foundations {
+        width: fit-content;
+        margin-bottom: 60%;
+        margin-left: 0rem;
+        justify-content: space-evenly;
+
+    }
+}
+
+@media screen and (max-width:415px) {
+    .foundations {
+        width: fit-content;
+        margin-bottom: 50%;
+        margin-left: 0rem;
+        justify-content: space-evenly;
+    }
+}
+
+@media screen and (max-width:769px)and (min-width:416px) {
+    .para {
+
+        padding-right: 3rem;
+
+
+
+
+
+
+    }
+}
+
+@media screen and (max-width:769px)and (min-width:416px) {
+    .container99 {
+        display: block;
+
+    }
+}
+
+@media screen and (max-width:415px) {
+    .container99 {
+        display: block;
+
+    }
+}
+
+@media screen and (max-width:769px) and (min-width:416px) {
+    .suscriber-count1 {
+
+        margin-top: 2rem;
+    }
+}
+
+@media screen and (max-width:415px) {
+    .Rudra {
+        padding-left: 3%;
+        font-size: 1.75rem;
+
+        width: 135%;
+        height: auto;
+
+        margin: 2rem;
+
+
+
+
+
+    }
+}
+
+@media screen and (max-width:415px) {
+    .Yoddha {
+        padding-left: 3%;
+        font-size: 1.75rem;
+
+        width: 135%;
+        height: auto;
+
+        margin: 3rem;
+    }
+}
+
+@media screen and (max-width:415px) {
+    .PYQ {
+        padding-left: 3%;
+        font-size: 1.75rem;
+
+        width: 135%;
+        height: auto;
+
+        margin: 3rem;
+    }
+}
+
+@media screen and (max-width:415px) {
+    .container1 {
+        display: flex;
+        flex-direction: column;
+        margin-left: 15%;
+
+        bottom: 0%;
+        
+
+
+    }
+}
+
+@media screen and (max-width:415px) {
+    .container2 {
+        display: flex;
+        flex-direction: column;
+        margin-left: 15%;
+
+        bottom: 0%;
+        
+
+
+    }
+}
+
+@media screen and (max-width:415px) {
+    .image1 {
+        display: none;
+
+
+
+    }
+}
+
+
+@media screen and (max-width:415px) {
+    .apni-kaksha {
+        width: fit-content;
+        margin-bottom: 50%;
+
+        margin-left: 0rem;
+    }
+}
+
+@media screen and (max-width:415px) {
+    .blue {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        width: 220%;
+
+    }
+}
+
+@media screen and (max-width:415px) {
+    .aman {
+        display: flex;
+        flex-direction: column;
+        padding: 0rem;
+        width: 220%;
+
+
+
+
+
+    }
+}@media screen and (max-width:415px) {
+    .photo img{
+        padding-left: 27.5%;
+    }}
+    @media screen and (max-width:415px) {
+        #id1{
+            width: 75%;
+        }}
+
+.photo img {
+    height: 200px;
+}
+
+@media screen and (max-width:415px) {
+    .container4 {
+
+        width: 200%;
+
+        margin-top: 7rem;
+        padding: 2rem;
+        display: flex;
+
+
+
+
+    }
+}
+
+@media screen and (max-width:415px) {
+    .image22 {
+        padding-top: 2rem;
+        margin-top: 8rem;
+    }
+}
+
+@media screen and (max-width:415px) {
+    .suscriber-count1 {
+        margin-top: 2rem;
+        margin-left: 35%;
+    }
+}@media screen and (max-width:415px) {
+    .btn1{
+        padding: 0.3rem;
+    }
+}@media screen and (max-width:415px) {
+    .btn2{
+        padding: 1rem;
+    }}@media screen and (max-width:415px) {
+        .class99{
+            width: 220%;
+            justify-content: space-evenly;
+        }}@media screen and (max-width:415px) {
+            .suscriber-count{
+                margin-left: 35%;
+
+            }}@media screen and (max-width:415px) {
+                .heading1{
+                    width: 220%;
+                }}@media screen and (max-width:415px) {
+                    .courses{
+                        margin-left: 15%;
+                        margin-right: 15%;
+                    }}@media screen and (max-width:415px) {
+                        .Yoddha{
+                            
+                            width:150%;
+                                padding: 1.3rem;
+                            
+                           
+                            margin-left: 28%;
+                        
+
+
+                        }}   @media screen and (max-width:415px) {
+                            .Rudra{
+                                
+                                width:200%;
+                                padding-left: 2rem;
+                               
+                            }} @media screen and (max-width:415px) {
+                                .PYQ{
+
+                                    width:200%;
+                                padding-left: 2rem;
+
+                                }}@media screen and (max-width:415px) {
+                                    .heading{
+                                        margin-left: 25%;
+                                    }}
