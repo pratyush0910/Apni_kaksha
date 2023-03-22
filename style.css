@@ -1088,4 +1088,7 @@ ul {
      .container4 {
         padding: 0rem;
         
-    }
+    }@media screen and (max-width:415px) {
+        .container4 {
+            padding: 2rem
+        }}
