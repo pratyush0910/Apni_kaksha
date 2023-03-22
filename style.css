@@ -1083,4 +1083,8 @@ ul {
                                 }}@media screen and (max-width:415px) {
                                     .heading{
                                         margin-left: 25%;
-                                    }}
+                                    }}@media screen and (max-width:1280px) {
+     .container4 {
+        padding: 0rem;
+        
+    }}
